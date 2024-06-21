@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotPic", "dotPic\dotPic.csproj", "{E9EE1672-C8B6-449F-91AA-EA528C6FE84B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9EE1672-C8B6-449F-91AA-EA528C6FE84B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EE1672-C8B6-449F-91AA-EA528C6FE84B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EE1672-C8B6-449F-91AA-EA528C6FE84B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EE1672-C8B6-449F-91AA-EA528C6FE84B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC3D26C3-B958-4DE8-B095-3B8A6B3D3942}
+	EndGlobalSection
+EndGlobal

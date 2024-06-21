@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\dotPic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EE1672-C8B6-449F-91AA-EA528C6FE84B}|dotPic\\dotPic.csproj|D:\\training\\dotPic\\dotpic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E9EE1672-C8B6-449F-91AA-EA528C6FE84B}|dotPic\\dotPic.csproj|solutionrelative:dotpic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\training\\dotPic\\dotPic\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "dotPic\\MainWindow.xaml",
+              "ToolTip": "D:\\training\\dotPic\\dotPic\\MainWindow.xaml",
+              "RelativeToolTip": "dotPic\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T09:17:09.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
